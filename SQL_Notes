@@ -28,7 +28,7 @@ ORDER BY "FIELD"
 SELECT * FROM Customers WHERE CustomerID <> 2;
 
 -- #####################################################################
--- CTEATED BY: Ibrahim Alakeel - - part 0
+-- CTEATED BY: Ibrahim  - - part 0
 -- CREATED ON: 7/8/2021
 -- #####################################################################
 
@@ -42,7 +42,7 @@ FROM Customers
 
 
 -- #####################################################################
--- CREATED BY: Ibrahim Alakeel - - part 2
+-- CREATED BY: Ibrahim  - - part 2
 -- CRETED ON: 9/8/2021
 -- #####################################################################
 
@@ -117,7 +117,7 @@ SELECT (FirstName + ' '+ LastName) AS 'FULL NAME' FROM Employees
 
 
 -- #####################################################################
--- CREATED BY: Ibrahim Alakeel - part 3
+-- CREATED BY: Ibrahim  - part 3
 -- CREATED ON: 11/8/2021
 -- #####################################################################
 
@@ -229,7 +229,7 @@ from database by the summation of the Quantity
 
 
 -- #####################################################################
--- CREATED BY: Ibrahim Alakeel - part 4
+-- CREATED BY: Ibrahim  - part 4
 -- CRETAED ON: 14/8/2021
 -- #####################################################################
 
@@ -304,7 +304,7 @@ FROM Customers
 
 
 -- #####################################################################
----- CREATED BY: Ibrahim Alakeel - part 5
+---- CREATED BY: Ibrahim  - part 5
 ---- CREATED ON: 16/8/2021
 -- #####################################################################
 
@@ -479,7 +479,7 @@ WHERE ProductID = 1
 
 
 -- #####################################################################
----- CREATED BY: Ibrahim Alakeel - part 6
+---- CREATED BY: Ibrahim  - part 6
 ---- CREATED ON: 18/8/2021
 -- #####################################################################
 
